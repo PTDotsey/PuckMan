@@ -15,11 +15,11 @@ W - Up
 D - Right
 S - Down
 
-Sprites and their attributes:
-🧱 - Wall
-🟡 - Pellet worth 1 point.
-😀 - Player icon when not powered up. Will die if you touch enemy.
-🍒 - Treasure worth 100 points. Powers up plaer and allows them to kill enemy.
-👻 - Enemies. Will kill player if they touch player when not powered up.
-🟦 - Empty Square.
-😠 - Powered up player. Can kill enemy when in this state.
+Sprites and their attributes:  
+🧱 - Wall  
+🟡 - Pellet worth 1 point.  
+😀 - Player icon when not powered up. Will die if you touch enemy.  
+🍒 - Treasure worth 100 points. Powers up plaer and allows them to kill enemy.  
+👻 - Enemies. Will kill player if they touch player when not powered up.  
+🟦 - Empty Square.  
+😠 - Powered up player. Can kill enemy when in this state.  
