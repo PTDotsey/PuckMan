@@ -1,19 +1,19 @@
 PuckMan
 
-A simple but fun clone of a famous yellow fellow who likes to eat dots and fruits, but hates ghosts.
-Written in C++ 20 and built using a makefile.
+A simple but fun clone of a famous yellow fellow who likes to eat dots and fruits, but hates ghosts.  
+Written in C++ 20 and built using a makefile.  
 
-To Run:
-From command line:
-1. "git clone https://github.com/PTDotsey/PuckMan.git"
-2. "make"
-3. "./main"
+To Run:  
+From command line:  
+1. "git clone https://github.com/PTDotsey/PuckMan.git"  
+2. "make"  
+3. "./main"  
 
-Controls:
-A - Left
-W - Up
-D - Right
-S - Down
+Controls:  
+A - Left  
+W - Up  
+D - Right  
+S - Down  
 
 Sprites and their attributes:  
 🧱 - Wall  
